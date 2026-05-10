@@ -2,4 +2,54 @@
     <string name="app_name">K234111EApp</string>
     <string name="str_Welcome">Welcome to K234111E</string>
     <string name="str_clickme">Click Me</string>
+
+    <!-- Login -->
+    <string name="str_welcome">Welcome Tan Minh to K234111E</string>
+    <string name="str_login_title">Login System - Tan Minh</string>
+    <string name="str_username">User Name</string>
+    <string name="str_hint_username">Enter your username</string>
+    <string name="str_password">Password</string>
+    <string name="str_hint_password">Enter your password</string>
+    <string name="str_login">Login</string>
+    <string name="str_exit">Exit</string>
+    <string name="str_login_success">Login successful!!!!!!</string>
+    <string name="str_login_failed">Login failed!!!!!!</string>
+
+    <!-- Main -->
+    <string name="str_clickme2">Click Me!</string>
+    <string name="str_open_calculator">Open Calculator App</string>
+
+    <!-- Memory buttons -->
+    <string name="str_mc">MC</string>
+    <string name="str_mr">MR</string>
+    <string name="str_m_plus">M+</string>
+    <string name="str_m_minus">M-</string>
+    <string name="str_ms">MS</string>
+    <string name="str_m">M</string>
+
+    <!-- Calculator buttons -->
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_dot">.</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">:</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_ce">CE</string>
+    <string name="btn_plus_minus">+/-</string>
+    <string name="btn_percent">%</string>
+    <string name="btn_backspace">backspace</string>
+    <string name="btn_1x">1/x</string>
+    <string name="btn_x2">x^2</string>
+    <string name="btn_sqrt">sqrt(x)</string>
 </resources>

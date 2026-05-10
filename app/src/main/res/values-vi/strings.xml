@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">K234111EApp</string>
+    <string name="str_welcome">Xin chào Tấn Minh đến với K234111E</string>
+    <string name="str_clickme">Bấm tui đi!</string>
+    <string name="str_clickme2">Bấm tui đi!</string>
+    <string name="str_login_title">Đăng nhập hệ thống - Tấn Minh</string>
+    <string name="str_username">Tên đăng nhập</string>
+    <string name="str_hint_username">Nhập tên đăng nhập</string>
+    <string name="str_password">Mật khẩu</string>
+    <string name="str_hint_password">Nhập mật khẩu</string>
+    <string name="str_login">Đăng nhập</string>
+    <string name="str_exit">Thoát</string>
+    <string name="str_login_success">Đăng nhập thành công!!!!!!</string>
+    <string name="str_login_failed">Đăng nhập thất bại!!!!!!</string>
+    <string name="str_mc">MC</string>
+    <string name="str_mr">MR</string>
+    <string name="str_m_plus">M+</string>
+    <string name="str_m_minus">M-</string>
+    <string name="str_ms">MS</string>
+    <string name="str_m">M</string>
+    <string name="str_open_calculator">Mở máy tính bỏ túi</string>
+</resources>
